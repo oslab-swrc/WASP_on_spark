@@ -46,3 +46,6 @@ Please cite the following paper if you use WASP:
   pages={130-140},
   doi={10.1109/BigData.2017.8257921}}
 ~~~
+
+## License
+WASP on Apache Spark has a Apache-2.0 license, as found in the [LICENSE](LICENSE) file.

@@ -26,3 +26,20 @@ Thus, WASP achieves much faster execution time and high resource utilization com
 
 * Possible benchmark
   - WordCount, Bayes, Kmeans, TeraSort, Sort, PageRank (HiBench v5.0)
+
+## Citation
+Please cite the following paper if you use WASP:
+
+**Jointly Optimizing Task Granularity and Concurrency for In-Memory MapReduce Frameworks.** Jonghyun Bae, Hakbeom Jang, Wenjing Jin, Jun Heo, Jaeyoung Jang, Joo-Young Hwang, Sangyeun Cho and Jae W. Lee. _Proceedings of the 2017 IEEE International Conference on Big Data (Big Data)_.
+
+~~~
+@INPROCEEDINGS{8257921,
+  author={Bae, Jonghyun and Jang, Hakbeom and Jin, Wenjing and Heo, Jun and Jang, Jaeyoung and Hwang, Joo-Young and Cho, Sangyeun and Lee, Jae W.},
+  booktitle={Proceedings of the 2017 IEEE International Conference on Big Data (Big Data)},
+  title={Jointly optimizing task granularity and concurrency for in-memory mapreduce frameworks},
+  year={2017},
+  volume={},
+  number={},
+  pages={130-140},
+  doi={10.1109/BigData.2017.8257921}}
+~~~

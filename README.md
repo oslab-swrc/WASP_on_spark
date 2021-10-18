@@ -27,6 +27,9 @@ Thus, WASP achieves much faster execution time and high resource utilization com
 * Possible benchmark
   - WordCount, Bayes, Kmeans, TeraSort, Sort, PageRank (HiBench v5.0)
 
+## Demo Video
+<img width="70%" src="WASP_demo.gif">
+
 ## Citation
 Please cite the following paper if you use WASP:
 

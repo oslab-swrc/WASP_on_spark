@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: Copyright 2021 Seoul National University
+#
+# SPDX-License-Identifier: MIT AND Apache-2.0
+
 /*
  * Licensed to the Apache Software Foundation (ASF) under one or more
  * contributor license agreements.  See the NOTICE file distributed with

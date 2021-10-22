@@ -1,7 +1,6 @@
 # SPDX-FileCopyrightText: Copyright 2021 Seoul National University
-#
-# SPDX-License-Identifier: MIT AND Apache-2.0
-
+# We modified the original code to add functions for WASP
+# SPDX-License-Identifier: Apache-2.0
 /*
  * Licensed to the Apache Software Foundation (ASF) under one or more
  * contributor license agreements.  See the NOTICE file distributed with

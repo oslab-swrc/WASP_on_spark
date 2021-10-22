@@ -1,6 +1,6 @@
 # SPDX-FileCopyrightText: Copyright 2021 Seoul National University
-#
-# SPDX-License-Identifier: MIT
+# We modified the original code to add functions for WASP
+# SPDX-License-Identifier: Apache-2.0
 
 package org.apache.spark.util.collection
 
